@@ -11,10 +11,10 @@ It will start pulling and downloading images.
 ## Check created image
 Run command: docker images
 
-You will see as below (might be your image name instead of japneet/backen-docker)
+You will see as below (might be your image name instead of japneet/backend-docker)
 
-REPOSITORY               TAG                 IMAGE ID            CREATED             SIZE
 japneet/backend-docker   latest              81aff23e773c        48 seconds ago      971MB
+
 node                     latest              91a3cf793116        6 days ago          942MB
 
 ## Now Run image
